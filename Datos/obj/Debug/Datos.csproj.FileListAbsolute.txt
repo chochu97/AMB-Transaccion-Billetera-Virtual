@@ -1,0 +1,14 @@
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\Datos.dll.config
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\EntityFramework.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\EntityFramework.xml
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\obj\Debug\Datos.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Datos\obj\Debug\Datos.pdb

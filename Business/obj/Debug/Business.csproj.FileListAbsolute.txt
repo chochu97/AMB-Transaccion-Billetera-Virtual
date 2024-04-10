@@ -1,0 +1,14 @@
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Business.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Business.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\EntityFramework.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Datos.dll.config
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\Business\bin\Debug\EntityFramework.xml
+C:\Users\nicok\source\repos\TP\UI Practice\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\TP\UI Practice\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\TP\UI Practice\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\nicok\source\repos\TP\UI Practice\Business\obj\Debug\Business.dll
+C:\Users\nicok\source\repos\TP\UI Practice\Business\obj\Debug\Business.pdb

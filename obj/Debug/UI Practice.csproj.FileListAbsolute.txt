@@ -1,0 +1,23 @@
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\UI Practice.exe.config
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\UI Practice.exe
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\UI Practice.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Business.dll
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Entity.dll
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\EntityFramework.dll
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Business.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Entity.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\EntityFramework.xml
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\TP\UI Practice\bin\Debug\Datos.dll.config
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI_Practice.Form1.resources
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI_Practice.Properties.Resources.resources
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.csproj.GenerateResource.cache
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.csproj.CopyComplete
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.exe
+C:\Users\nicok\source\repos\TP\UI Practice\obj\Debug\UI Practice.pdb
